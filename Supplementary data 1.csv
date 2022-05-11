@@ -1,0 +1,137 @@
+iso3c,country_territory,continent,region,income,population,lockdown_date,social_distancing_date,NPI_date,sim_start_date,Re,Re_lower,Re_upper
+ABW,Aruba,Americas,Caribbean,High income,106441,NA,NA,NA,2020/3/1,2.37,2.19,2.51
+AFG,Afghanistan,Asia,Southern Asia,Low income,38054945,2020/3/28,2020/3/1,2020/3/28,2020/2/21,2.37,2.15,2.63
+AGO,Angola,Africa,Middle Africa,Upper middle income,32827403,2020/3/26,2020/3/23,2020/3/26,2020/3/8,2.37,2.19,2.51
+ARE,United Arab Emirates,Asia,Western Asia,High income,9813168,2020/3/26,2020/3/8,2020/3/26,2020/2/11,2.86,2.74,2.99
+ARG,Argentina,Americas,South America,Upper middle income,45510413,2020/3/19,2020/3/12,2020/3/19,2020/2/19,2.83,2.62,3.05
+ATG,Antigua & Barbuda,Americas,Caribbean,Upper middle income,105106,2020/4/2,2020/3/15,2020/4/2,2020/3/3,2.37,2.19,2.51
+AUS,Australia,Oceania,Australia and New Zealand,High income,25398179,2020/3/29,2020/3/13,2020/3/29,2020/1/25,3.18,3.05,3.31
+AUT,Austria,Europe,Western Europe,High income,8782212,2020/3/16,2020/3/10,2020/3/16,2020/2/1,2.88,2.81,2.96
+BEL,Belgium,Europe,Western Europe,High income,11619957,2020/3/18,2020/3/13,2020/3/18,2020/2/4,2.87,2.82,2.93
+BEN,Benin,Africa,Western Africa,Low income,12122982,2020/3/23,2020/3/19,2020/3/23,2020/3/6,2.37,2.19,2.51
+BFA,Burkina Faso,Africa,Western Africa,Low income,20903348,NA,2020/3/12,2020/3/12,2020/2/26,2.04,1.76,2.37
+BGD,Bangladesh,Asia,Southern Asia,Low income,169775310,2020/4/9,2020/4/9,2020/4/9,2020/2/25,3.41,3.17,3.68
+BGR,Bulgaria,Europe,Eastern Europe,Upper middle income,6940522,2020/3/13,2020/3/11,2020/3/13,2020/2/23,2.66,2.21,3.23
+BHR,Bahrain,Asia,Western Asia,High income,1697767,NA,2020/2/26,2020/2/26,2020/2/10,1.57,1.52,1.62
+BHS,Bahamas,Americas,Caribbean,High income,406835,2020/3/24,2020/3/12,2020/3/24,2020/3/4,2.37,2.19,2.51
+BIH,Bosnia & Herzegovina,Europe,Southern Europe,Upper middle income,3498213,2020/3/12,2020/3/11,2020/3/12,2020/2/14,4.02,3.03,5.32
+BLR,Belarus,Europe,Eastern Europe,Upper middle income,9415432,NA,2020/3/14,2020/3/14,2020/2/21,3.12,3,3.25
+BLZ,Belize,Americas,Central America,Lower middle income,397999,2020/3/23,2020/3/16,2020/3/23,2020/3/13,2.37,2.19,2.51
+BOL,Bolivia,Americas,South America,Lower middle income,11543980,2020/3/16,2020/3/14,2020/3/16,2020/2/20,2.37,2.19,2.51
+BRA,Brazil,Americas,South America,Upper middle income,213863051,2020/4/8,2020/3/16,2020/4/8,2020/2/12,2.2,2.18,2.23
+BRB,Barbados,Americas,Caribbean,High income,287563,2020/3/26,2020/3/11,2020/3/26,2020/3/4,2.37,2.19,2.51
+BWA,Botswana,Africa,Southern Africa,Upper middle income,2484607,2020/4/2,2020/3/16,2020/4/2,2020/3/19,2.37,2.19,2.51
+CAN,Canada,Americas,Northern America,High income,37603216,NA,2020/3/13,2020/3/13,2020/1/16,2.48,2.45,2.52
+CHE,Switzerland,Europe,Western Europe,High income,8670541,2020/3/19,2020/2/28,2020/3/19,2020/2/1,2.42,2.38,2.46
+CHL,Chile,Americas,South America,Upper middle income,18896464,2020/3/26,2020/3/15,2020/3/26,2020/2/12,2.23,2.17,2.29
+CHN,China,Asia,Eastern Asia,Upper middle income,1424548268,2020/1/23,2020/1/23,2020/1/23,2019/12/1,3.76,3.69,3.84
+CIV,C?te d?Ivoire,Africa,Western Africa,Lower middle income,26171752,2020/4/9,2020/3/16,2020/4/9,2020/2/27,1.97,1.77,2.19
+CMR,Cameroon,Africa,Middle Africa,Lower middle income,25958179,NA,2020/3/18,2020/3/18,2020/2/23,3.02,2.7,3.41
+COL,Colombia,Americas,South America,Upper middle income,50220406,2020/3/25,2020/3/16,2020/3/25,2020/2/15,2.25,2.14,2.35
+CPV,Cape Verde,Africa,Western Africa,Lower middle income,567346,NA,2020/3/20,2020/3/20,2020/3/8,2.37,2.19,2.51
+CRI,Costa Rica,Americas,Central America,Upper middle income,5044180,NA,2020/3/15,2020/3/15,2020/2/22,2.2,1.9,2.53
+CZE,Czechia,Europe,Eastern Europe,High income,10633428,2020/3/16,2020/3/10,2020/3/16,2020/2/5,2.69,2.58,2.81
+DEU,Germany,Europe,Western Europe,High income,82540447,2020/3/21,2020/3/10,2020/3/21,2020/1/15,2.35,2.34,2.36
+DNK,Denmark,Europe,Northern Europe,High income,5796797,NA,2020/3/11,2020/3/11,2020/2/13,1.74,1.7,1.78
+DOM,Dominican Republic,Americas,Caribbean,Upper middle income,11189162,NA,2020/3/19,2020/3/19,2020/2/17,1.87,1.81,1.92
+ECU,Ecuador,Americas,South America,Upper middle income,17335642,2020/3/23,2020/3/2,2020/3/23,2020/2/16,2.37,2.3,2.45
+EGY,Egypt,Africa,Northern Africa,Lower middle income,102941485,NA,2020/3/15,2020/3/15,2020/2/1,1.91,1.84,1.98
+ESP,Spain,Europe,Southern Europe,High income,46459218,2020/3/13,2020/3/13,2020/3/13,2020/1/12,3.3,3.27,3.34
+EST,Estonia,Europe,Northern Europe,High income,1300557,2020/3/30,2020/3/12,2020/3/30,2020/2/14,1.86,1.73,2
+FIN,Finland,Europe,Northern Europe,High income,5580128,2020/3/13,2020/3/13,2020/3/13,2020/2/7,2.48,2.3,2.68
+FJI,Fiji,Oceania,Melanesia,Lower middle income,924918,2020/3/15,2020/3/15,2020/3/15,2020/3/6,2.37,2.19,2.51
+FRA,France,Europe,Western Europe,High income,65721164,2020/3/17,2020/2/29,2020/3/17,2020/1/11,2.64,2.62,2.67
+GAB,Gabon,Africa,Middle Africa,Upper middle income,2293492,2020/4/12,2020/3/7,2020/4/12,2020/3/3,2.37,2.19,2.51
+GBR,United Kingdom,Europe,Northern Europe,High income,67334204,2020/3/20,2020/3/16,2020/3/20,2020/1/19,2.99,2.96,3.03
+GEO,Georgia,Asia,Western Asia,Lower middle income,3898524,2020/3/23,2020/3/18,2020/3/23,2020/2/14,2.37,2.19,2.51
+GHA,Ghana,Africa,Western Africa,Lower middle income,29042130,2020/3/30,2020/3/16,2020/3/30,2020/2/28,1.84,1.67,2.03
+GNB,Guinea-Bissau,Africa,Western Africa,Low income,2000694,NA,2020/3/17,2020/3/17,2020/3/13,2.37,2.19,2.51
+GRC,Greece,Europe,Southern Europe,High income,11102567,2020/3/17,2020/3/11,2020/3/17,2020/2/10,1.96,1.86,2.07
+GTM,Guatemala,Americas,Central America,Lower middle income,17910807,NA,2020/3/14,2020/3/14,2020/3/1,2.37,2.19,2.51
+HKG,Hong Kong SAR China,Asia,Eastern Asia,High income,7547651,NA,2020/3/23,2020/3/23,2020/1/9,1.71,1.64,1.79
+HND,Honduras,Americas,Central America,Lower middle income,9719731,2020/4/6,2020/3/16,2020/4/6,2020/2/27,2.37,2.19,2.51
+HRV,Croatia,Europe,Southern Europe,High income,4115942,2020/4/18,2020/3/16,2020/4/18,2020/2/12,2.54,2.37,2.72
+HTI,Haiti,Americas,Caribbean,Low income,10738247,2020/3/20,2020/3/20,2020/3/20,2020/3/6,2.37,2.19,2.51
+HUN,Hungary,Europe,Eastern Europe,High income,9621251,2020/3/17,2020/3/9,2020/3/17,2020/2/20,2.8,2.48,3.14
+IDN,Indonesia,Asia,South-Eastern Asia,Lower middle income,272222982,NA,NA,NA,2020/2/17,1.87,1.82,1.91
+IND,India,Asia,Southern Asia,Lower middle income,691600020,2020/3/16,2020/3/9,2020/3/16,2020/2/5,3.18,2.95,3.42
+IRL,Ireland,Europe,Northern Europe,High income,4887990,2020/3/28,2020/3/12,2020/3/28,2020/2/12,2.09,2.05,2.14
+IRQ,Iraq,Asia,Western Asia,Lower middle income,41502883,2020/3/11,2020/3/11,2020/3/11,2020/2/11,2.11,1.86,2.42
+ISR,Israel,Asia,Western Asia,High income,8713564,2020/3/17,2020/3/5,2020/3/17,2020/2/4,3.19,3.08,3.31
+ITA,Italy,Europe,Southern Europe,High income,49572358,2020/3/8,2020/2/21,2020/3/8,2020/1/1,2.77,2.75,2.8
+JAM,Jamaica,Americas,Caribbean,Upper middle income,2913167,NA,NA,NA,2020/2/27,2.37,2.19,2.51
+JOR,Jordan,Asia,Western Asia,Upper middle income,10208664,2020/3/16,2020/3/14,2020/3/16,2020/2/21,2.37,2.19,2.51
+JPN,Japan,Asia,Eastern Asia,High income,126495644,2020/4/7,2020/2/20,2020/4/7,2020/1/23,1.84,1.81,1.87
+KAZ,Kazakhstan,Asia,Central Asia,Upper middle income,18777137,NA,2020/3/5,2020/3/5,2020/3/1,1.89,1.79,2
+KEN,Kenya,Africa,Eastern Africa,Low income,26745846,NA,2020/3/3,2020/3/3,2020/2/29,2.37,2.19,2.51
+KGZ,Kyrgyzstan,Asia,Central Asia,Low income,18905166,NA,NA,NA,2020/3/1,2.37,2.19,2.51
+KHM,Cambodia,Asia,South-Eastern Asia,Low income,17625417,2020/3/18,2020/3/18,2020/3/18,2020/2/20,2.37,2.19,2.51
+KOR,South Korea,Asia,Eastern Asia,High income,51506981,2020/3/22,2020/2/27,2020/3/22,2020/1/21,3.49,3.36,3.61
+KWT,Kuwait,Asia,Western Asia,High income,4302866,2020/4/6,2020/2/26,2020/4/6,2020/2/10,1.97,1.88,2.07
+LAO,Laos,Asia,South-Eastern Asia,Lower middle income,7164828,2020/3/30,2020/3/6,2020/3/30,2020/3/12,2.37,2.19,2.51
+LBN,Lebanon,Asia,Western Asia,Upper middle income,6019794,NA,2020/3/9,2020/3/9,2020/2/9,2.19,1.94,2.51
+LBY,Libya,Africa,Northern Africa,Upper middle income,6662176,2020/3/29,2020/3/13,2020/3/29,2020/3/12,2.37,2.19,2.51
+LKA,Sri Lanka,Asia,Southern Asia,Lower middle income,21084040,2020/3/29,2020/3/13,2020/3/29,2020/2/22,2.37,2.19,2.51
+LTU,Lithuania,Europe,Northern Europe,Upper middle income,2852471,NA,2020/3/11,2020/3/11,2020/2/22,2.19,2.03,2.37
+LUX,Luxembourg,Europe,Western Europe,High income,603951,2020/3/16,2020/3/13,2020/3/16,2020/2/5,3.23,3.03,3.44
+LVA,Latvia,Europe,Northern Europe,Upper middle income,1892993,NA,2020/3/14,2020/3/14,2020/2/18,2.26,1.98,2.59
+MAR,Morocco,Africa,Northern Africa,Lower middle income,37070719,2020/3/20,2020/3/1,2020/3/20,2020/2/19,1.92,1.85,2
+MDA,Moldova,Europe,Eastern Europe,Lower middle income,4017677,2020/3/25,2020/3/16,2020/3/25,2020/2/24,2.7,2.51,2.91
+MEX,Mexico,Americas,Central America,Upper middle income,133870037,2020/3/30,2020/3/14,2020/3/30,2020/2/15,2.26,2.2,2.33
+MKD,Macedonia,Europe,Southern Europe,Upper middle income,2088036,NA,2020/3/10,2020/3/10,2020/2/16,1.73,1.63,1.82
+MLI,Mali,Africa,Western Africa,Low income,20284183,NA,2020/3/11,2020/3/11,2020/3/12,2.37,2.19,2.51
+MLT,Malta,Europe,Southern Europe,High income,434370,2020/4/5,2020/3/13,2020/4/5,2020/2/23,2.37,2.19,2.51
+MMR,Myanmar (Burma),Asia,South-Eastern Asia,Low income,54808276,NA,2020/3/13,2020/3/13,2020/3/1,2.37,2.19,2.51
+MNG,Mongolia,Asia,Eastern Asia,Lower middle income,3209396,2020/3/10,2020/3/10,2020/3/10,2020/2/29,2.37,2.19,2.51
+MOZ,Mozambique,Africa,Eastern Africa,Low income,28603070,NA,2020/3/23,2020/3/23,2020/3/9,2.37,2.19,2.51
+MUS,Mauritius,Africa,Eastern Africa,Upper middle income,1274108,2020/3/20,2020/3/19,2020/3/20,2020/3/6,2.37,2.19,2.51
+MYS,Malaysia,Asia,South-Eastern Asia,Upper middle income,32869317,2020/3/18,2020/3/11,2020/3/18,2020/1/12,2.41,2.33,2.49
+NAM,Namibia,Africa,Southern Africa,Upper middle income,1348269,2020/3/28,2020/3/14,2020/3/28,2020/3/3,2.37,2.19,2.51
+NER,Niger,Africa,Western Africa,Low income,24074691,NA,2020/3/17,2020/3/17,2020/3/10,4.02,3.35,4.8
+NGA,Nigeria,Africa,Western Africa,Lower middle income,204909220,2020/3/29,2020/3/18,2020/3/29,2020/2/26,2.37,2.19,2.51
+NIC,Nicaragua,Americas,Central America,Lower middle income,6416569,NA,NA,NA,2020/3/8,2.37,2.19,2.51
+NLD,Netherlands,Europe,Western Europe,High income,17181252,NA,2020/3/12,2020/3/12,2020/2/14,2.05,2.03,2.08
+NOR,Norway,Europe,Northern Europe,High income,5449696,NA,2020/3/12,2020/3/12,2020/2/7,2.05,1.99,2.11
+NPL,Nepal,Asia,Southern Asia,Low income,30260246,2020/3/24,2020/3/10,2020/3/24,2020/3/26,2.37,2.19,2.51
+NZL,New Zealand,Oceania,Australia and New Zealand,High income,4834421,2020/3/23,2020/3/19,2020/3/23,2020/2/26,3.34,2.91,3.83
+OMN,Oman,Asia,Western Asia,High income,5149698,NA,2020/3/15,2020/3/15,2020/2/12,2.04,1.93,2.15
+PAK,Pakistan,Asia,Southern Asia,Lower middle income,208362327,NA,2020/3/13,2020/3/13,2020/2/13,2.01,1.96,2.06
+PAN,Panama,Americas,Central America,Upper middle income,4289326,2020/4/11,2020/3/13,2020/4/11,2020/2/15,1.93,1.87,1.99
+PER,Peru,Americas,South America,Upper middle income,33312181,2020/3/16,2020/3/11,2020/3/16,2020/2/2,2.81,2.59,3.06
+PHL,Philippines,Asia,South-Eastern Asia,Lower middle income,109702483,2020/3/26,2020/3/10,2020/3/26,2020/1/24,2.8,2.68,2.92
+PNG,Papua New Guinea,Oceania,Melanesia,Lower middle income,8755676,2020/3/24,2020/3/18,2020/3/24,2020/3/7,2.37,2.19,2.51
+POL,Poland,Europe,Eastern Europe,High income,37942222,2020/3/24,2020/3/12,2020/3/24,2020/2/19,2.36,2.29,2.43
+PRI,Puerto Rico,Americas,Caribbean,High income,3650605,NA,NA,NA,2020/3/14,2.51,2.25,2.81
+PRT,Portugal,Europe,Southern Europe,High income,9972688,2020/4/3,2020/3/12,2020/4/3,2020/2/12,2.5,2.45,2.55
+PRY,Paraguay,Americas,South America,Lower middle income,7066329,2020/3/20,2020/3/10,2020/3/20,2020/2/23,2.37,2.19,2.51
+QAT,Qatar,Asia,Western Asia,High income,2791800,2020/3/22,2020/3/9,2020/3/22,2020/2/16,1.69,1.61,1.77
+REU,R?union,Africa,Eastern Africa,High income,896525,NA,NA,NA,2020/4/19,2.37,2.19,2.51
+ROU,Romania,Europe,Eastern Europe,Upper middle income,19388360,2020/3/30,2020/3/16,2020/3/30,2020/2/13,2.15,2.1,2.2
+RUS,Russia,Europe,Eastern Europe,Upper middle income,134651648,2020/3/22,2020/3/16,2020/3/22,2020/2/1,3.49,3.37,3.62
+RWA,Rwanda,Africa,Eastern Africa,Low income,14172046,2020/3/21,2020/3/8,2020/3/21,2020/3/1,2.37,2.19,2.51
+SAU,Saudi Arabia,Asia,Western Asia,High income,34709643,2020/3/25,2020/2/27,2020/3/25,2020/2/12,2.07,2,2.14
+SEN,Senegal,Africa,Western Africa,Lower middle income,17200158,NA,2020/3/14,2020/3/14,2020/2/20,2.37,2.19,2.51
+SGP,Singapore,Asia,South-Eastern Asia,High income,5935044,2020/4/7,2020/2/15,2020/4/7,2020/1/10,1.86,1.82,1.9
+SLV,El Salvador,Americas,Central America,Lower middle income,6479060,2020/3/11,2020/3/11,2020/3/11,2020/3/6,2.37,2.19,2.51
+SRB,Serbia,Europe,Southern Europe,Upper middle income,8703948,NA,2020/3/17,2020/3/17,2020/2/13,2.23,2.17,2.3
+SVK,Slovakia,Europe,Eastern Europe,High income,5448874,2020/3/12,2020/3/12,2020/3/12,2020/2/22,2.77,2.19,3.55
+SVN,Slovenia,Europe,Southern Europe,High income,2082053,2020/3/19,2020/3/10,2020/3/19,2020/2/14,1.78,1.66,1.91
+SWE,Sweden,Europe,Northern Europe,High income,10121690,NA,2020/3/12,2020/3/12,2020/2/1,1.82,1.79,1.85
+TGO,Togo,Africa,Western Africa,Low income,8384290,2020/3/21,2020/3/16,2020/3/21,2020/2/24,2.37,2.19,2.51
+THA,Thailand,Asia,South-Eastern Asia,Upper middle income,34705432,2020/3/26,2020/3/18,2020/3/26,2020/2/17,3.32,3.07,3.6
+TJK,Tajikistan,Asia,Central Asia,Low income,9475256,NA,2020/3/15,2020/3/15,2020/5/1,2.37,2.19,2.51
+TTO,Trinidad & Tobago,Americas,Caribbean,High income,1377726,2020/3/29,2020/3/13,2020/3/29,2020/2/29,2.37,2.19,2.51
+TUR,Turkey,Asia,Western Asia,Upper middle income,83835758,2020/3/18,2020/3/16,2020/3/18,2020/2/12,4.47,4.35,4.58
+TWN,Taiwan,Asia,Eastern Asia,High income,23817898,NA,NA,NA,2020/2/3,2.37,2.19,2.51
+TZA,Tanzania,Africa,Eastern Africa,Low income,59071798,NA,2020/3/17,2020/3/17,2020/3/3,2.37,2.19,2.51
+UGA,Uganda,Africa,Eastern Africa,Low income,47187702,2020/3/30,2020/3/20,2020/3/30,2020/3/8,2.37,2.19,2.51
+UKR,Ukraine,Europe,Eastern Europe,Lower middle income,43579233,2020/3/15,2020/3/9,2020/3/15,2020/2/21,4.6,3.78,5.66
+URY,Uruguay,Americas,South America,Upper middle income,3494386,2020/3/24,2020/3/15,2020/3/24,2020/3/1,2.67,2.11,3.38
+USA,United States,Americas,Northern America,High income,331431527,NA,2020/3/19,2020/3/19,2020/1/8,2.5,2.5,2.51
+VEN,Venezuela,Americas,South America,Upper middle income,33172401,2020/3/16,2020/3/15,2020/3/16,2020/3/1,2.37,2.19,2.51
+VNM,Vietnam,Asia,South-Eastern Asia,Lower middle income,98360146,2020/3/31,2020/2/5,2020/3/31,2020/2/19,2.37,2.19,2.51
+YEM,Yemen,Asia,Western Asia,Lower middle income,30245300,NA,2020/3/14,2020/3/14,2020/3/29,2.37,2.19,2.51
+ZAF,South Africa,Africa,Southern Africa,Upper middle income,19573745,2020/3/27,2020/3/15,2020/3/27,2020/2/21,3.18,2.93,3.45
+ZMB,Zambia,Africa,Eastern Africa,Lower middle income,6226427,NA,2020/3/17,2020/3/17,2020/3/6,2.37,2.19,2.51
+ZWE,Zimbabwe,Africa,Eastern Africa,Low income,17645185,2020/3/30,2020/3/24,2020/3/30,2020/3/7,2.37,2.19,2.51
+,,,,,,,,,,2.45325,,
